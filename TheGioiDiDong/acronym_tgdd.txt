@@ -1,0 +1,44 @@
+ae	anh em
+full	toàn màng hình
+vượt_trội	vượt trội
+nv	nhân viên
+đc	được
+dt	điện thoại
+chat	nhắn tin
+setting	cài đặt
+fps	fps
+chip	chipset
+cực_kỳ	cực kỳ
+wifi	wifi
+cuộc_gọi	cuộc gọi
+hz	Hertz
+lúc_nào	lúc nào
+máy_đẹp	máy đẹp
+max	tối đa
+hd	hd
+nhìu	nhiều
+out	thoát ra
+bluetooth	bluetooth
+?	?
+màu_sắc_đẹp	màu sắc đẹp
+cx	cũng
+máy_mượt	máy mượt
+máy_thiết_kế	máy thiết kế
+trc	trước
+gi	gì
+web	website
+*	sao
+pin_khỏe	pin khoẻ
+cầm_chắc_tay	cầm chắc tay
+thẻ_nhớ	thẻ nhớ
+hinh	hình
+gb	gigabyte
+đung	đúng
+load	load
+>	>
+reset	khởi động lại
+check	kiểm tra
+thich	thích
+chảnh	chảnh
+online	online
+thương_hiệu	thương hiệu
