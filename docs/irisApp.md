@@ -37,6 +37,7 @@
         ```python
         model.fit(X_train, y_train)
         ```
+    - Đánh giá mô hình: (sinh viên tự thực hiện)
 5. **Lưu mô hình đã huấn luyện:**
     - Sử dụng thư viện `pickle` để lưu mô hình:
         ```python
