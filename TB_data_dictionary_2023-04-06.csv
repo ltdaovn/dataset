@@ -1,0 +1,58 @@
+variable_name,dataset,code_list,definition
+country,Country identification,,Country or territory name
+g_whoregion,Country identification,AFR=Africa; AMR=Americas; EMR=Eastern Mediterranian; EUR=Europe; SEA=South-East Asia; WPR=Western Pacific,WHO region
+iso_numeric,Country identification,,ISO numeric country/territory code
+iso2,Country identification,,ISO 2-character country/territory code
+iso3,Country identification,,ISO 3-character country/territory code
+c_cdr,Estimates,,"Case detection rate (all forms) [also known as TB treatment coverage], percent"
+c_cdr_hi,Estimates,,"Case detection rate (all forms) [also known as TB treatment coverage], percent, high bound"
+c_cdr_lo,Estimates,,"Case detection rate (all forms) [also known as TB treatment coverage], percent, low bound"
+c_newinc_100k,Estimates,,"Case notification rate, which is the total of new and relapse cases and cases with unknown previous TB treatment history per 100 000 population (calculated)"
+cfr,Estimates,,Estimated TB case fatality ratio
+cfr_hi,Estimates,,Estimated TB case fatality ratio: high bound
+cfr_lo,Estimates,,Estimated TB case fatality ratio: low bound
+cfr_pct,Estimates,,Estimated TB case fatality ratio expressed as a percentage
+cfr_pct_hi,Estimates,,Estimated TB case fatality ratio: high bound expressed as a percentage
+cfr_pct_lo,Estimates,,Estimated TB case fatality ratio: low bound expressed as a percentage
+e_inc_100k,Estimates,,Estimated incidence (all forms) per 100 000 population
+e_inc_100k_hi,Estimates,,"Estimated incidence (all forms) per 100 000 population, high bound"
+e_inc_100k_lo,Estimates,,"Estimated incidence (all forms) per 100 000 population, low bound"
+e_inc_num,Estimates,,Estimated number of incident cases (all forms)
+e_inc_num_hi,Estimates,,"Estimated number of incident cases (all forms), high bound"
+e_inc_num_lo,Estimates,,"Estimated number of incident cases (all forms), low bound"
+e_inc_tbhiv_100k,Estimates,,Estimated incidence of TB cases who are HIV-positive per 100 000 population
+e_inc_tbhiv_100k_hi,Estimates,,"Estimated incidence of TB cases who are HIV-positive per 100 000 population, high bound"
+e_inc_tbhiv_100k_lo,Estimates,,"Estimated incidence of TB cases who are HIV-positive per 100 000 population, low bound"
+e_inc_tbhiv_num,Estimates,,Estimated incidence of TB cases who are HIV-positive
+e_inc_tbhiv_num_hi,Estimates,,"Estimated incidence of TB cases who are HIV-positive, high bound"
+e_inc_tbhiv_num_lo,Estimates,,"Estimated incidence of TB cases who are HIV-positive, low bound"
+e_mort_100k,Estimates,,Estimated mortality of TB cases (all forms) per 100 000 population
+e_mort_100k_hi,Estimates,,"Estimated mortality of TB cases (all forms) per 100 000 population, high bound"
+e_mort_100k_lo,Estimates,,"Estimated mortality of TB cases (all forms) per 100 000 population, low bound"
+e_mort_exc_tbhiv_100k,Estimates,,"Estimated mortality of TB cases (all forms, excluding HIV) per 100 000 population"
+e_mort_exc_tbhiv_100k_hi,Estimates,,"Estimated mortality of TB cases (all forms, excluding HIV), per 100 000 population, high bound"
+e_mort_exc_tbhiv_100k_lo,Estimates,,"Estimated mortality of TB cases (all forms, excluding HIV), per 100 000 population, low bound"
+e_mort_exc_tbhiv_num,Estimates,,"Estimated number of deaths from TB (all forms, excluding HIV)"
+e_mort_exc_tbhiv_num_hi,Estimates,,"Estimated number of deaths from TB (all forms, excluding HIV), high bound"
+e_mort_exc_tbhiv_num_lo,Estimates,,"Estimated number of deaths from TB (all forms, excluding HIV), low bound"
+e_mort_num,Estimates,,Estimated number of deaths from TB (all forms)
+e_mort_num_hi,Estimates,,"Estimated number of deaths from TB (all forms), high bound"
+e_mort_num_lo,Estimates,,"Estimated number of deaths from TB (all forms), low bound"
+e_mort_tbhiv_100k,Estimates,,"Estimated mortality of TB cases who are HIV-positive, per 100 000 population"
+e_mort_tbhiv_100k_hi,Estimates,,"Estimated mortality of TB cases who are HIV-positive, per 100 000 population, high bound"
+e_mort_tbhiv_100k_lo,Estimates,,"Estimated mortality of TB cases who are HIV-positive, per 100 000 population, low bound"
+e_mort_tbhiv_num,Estimates,,Estimated number of deaths from TB in people who are HIV-positive
+e_mort_tbhiv_num_hi,Estimates,,"Estimated number of deaths from TB in people who are HIV-positive, high bound"
+e_mort_tbhiv_num_lo,Estimates,,"Estimated number of deaths from TB in people who are HIV-positive, low bound"
+e_pop_num,Estimates,,Estimated total population number
+e_rr_pct_new,Estimates,,Estimated percentage of new TB cases with rifampicin resistant TB
+e_rr_pct_new_hi,Estimates,,Estimated percentage of new TB cases with rifampicin resistant TB: high bound
+e_rr_pct_new_lo,Estimates,,Estimated percentage of new TB cases with rifampicin resistant TB: low bound
+e_rr_pct_ret,Estimates,,Estimated percentage of previously treated TB cases with rifampicin resistant TB
+e_rr_pct_ret_hi,Estimates,,Estimated percentage of previously treated TB cases with rifampicin resistant TB: high bound
+e_rr_pct_ret_lo,Estimates,,Estimated percentage of previously treated TB cases with rifampicin resistant TB: low bound
+e_tbhiv_prct,Estimates,,Estimated HIV in incident TB (percent)
+e_tbhiv_prct_hi,Estimates,,"Estimated HIV in incident TB (percent), high bound"
+e_tbhiv_prct_lo,Estimates,,"Estimated HIV in incident TB (percent), low bound"
+source_rr_new,Estimates,,Method used to estimate proportion of new TB patients with rifampicin-resistant TB
+source_rr_ret,Estimates,,Method used to estimate proportion of previously treated TB patients with rifampicin-resistant TB
